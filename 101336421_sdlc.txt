@@ -1,0 +1,4 @@
+SDLC stands for SOFTWARE DEVELOPMENT LIFE CYCLE
+The Software Development Lifecycle(SDLC) is a systematic process.
+DevOps is a set of practices that combines software development and IT operations.
+A DevOps engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle
