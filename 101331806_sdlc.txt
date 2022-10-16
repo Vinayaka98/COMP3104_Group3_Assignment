@@ -1,0 +1,3 @@
+-> THIS FILE WILL CONTAIN CONTENT REGRARDING SDLC
+
+1. The word “DevOps” was coined in 2009 by Patrick Debois, who became one of its gurus.
