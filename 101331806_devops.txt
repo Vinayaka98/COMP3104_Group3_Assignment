@@ -1,0 +1,9 @@
+-> THIS FILE WILL CONTAIN CONTENT RELATED TO COMP3104
+
+1. COMP3104 is taught by Mr. Pritesh Kumar Patel on every Monday from 6:00PM to 9:00PM.
+
+2. Defination: DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
+
+3. Some benefits of DevOps are speed, rapid delivery, reliability, scale, collaboration, security, and much more.
+
+4. 4. CI and CD are core topics in DevOps
