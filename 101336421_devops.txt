@@ -1,3 +1,4 @@
 COMP 3104 is taught by Prof PriteshKumar Patel.
 COMP 3104 is good course.
 COMP 3104 is about vsc , jenkins and also learning about the development system.
+COMP 3104 is being taught in E435 from 6PM - 9PM
