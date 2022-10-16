@@ -4,3 +4,4 @@
 
 2. DevOps is all about the unification and automation of processes, and DevOps engineers are instrumental in combining code, application maintenance, and application management. All of these tasks rely on understanding not only development life cycles, but DevOps culture, and its philosophy, practices, and tools.
 
+3. A DevOps engineer is responsible for the smooth operation of a company's IT infrastructure. To be successful in this role, a DevOps engineer must have a deep understanding of both development and operations processes, as well as a strong technical background.
